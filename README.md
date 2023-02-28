@@ -7,7 +7,7 @@ This is a program that impliments the popular "Fizz buzz" game using POSIX threa
 The wrapper code in "p_thread_wrappers.cpp/h" was written by our professor, Kennyt Avery. The majority of the rest of the code is mine.
 
 
-fizzbuzz.cpp: [Usage: fizzbuzz [NUM]]<br>
+fizzbuzz.cpp: [Usage: fizzbuzz [NUM]]:<br>
 This program takes a number as a command-line parameter to count up from 1: print out "fizz" if the number is divisible by 3, "buzz" if the number is divisible by 5,"fizzbuzz" if the number is divisible by 3 and 5, otherwise print out the number itself.
 
 producer-consumer.cpp [Usage: producer-consumer [NUM] [BUFSIZE]]: <br>
