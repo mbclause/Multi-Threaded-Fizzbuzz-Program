@@ -2,7 +2,7 @@
 
 Programmers: Michael Clausen, Anh Nguyen, Linh Nguyen
 
-This is a program that impliments the popular "Fizz buzz" game using POSIX threads written in C++. 
+This is a program that impliments the popular "Fizz buzz" game using POSIX threads written in C++. It runs in the Linux environment.
 
 The wrapper code in "p_thread_wrappers.cpp/h" was written by our professor, Kennyt Avery. The majority of the rest of the code is mine.
 
